@@ -26,11 +26,10 @@ Technical Skills
 --------------------
 **Programming Langauges**
 * Python
-* machine learning
 * java
 * html
 * c
-* mysql
+* SQL
 
 
 
